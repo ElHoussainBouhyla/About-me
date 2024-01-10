@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hussein Boheel
+- 👋 Hi, I’m El Houssain Bouhyla
 - 👀 I’m interested in AI programming and entrepreneurship
 - 🌱 I’m currently learning data analysis and taking the Google Data Analytics Professional Certificate "30/09/2023"
   
